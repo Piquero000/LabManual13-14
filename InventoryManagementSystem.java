@@ -84,3 +84,4 @@ public class InventoryManagementSystem extends JFrame {
         });
     }
 }
+
